@@ -1,2 +1,15 @@
 # Andela-Challenge-1.0
-This challenge is a simple Android Application with three Activities, the first Activity is the main Activity with two Buttons. Button 1 takes you to Activity B when clicked. Button 2 takes you to Activity C when clicked. Activity B is the About ALC page, it contains only a Webview that loads the URL https://andela.com/alc/ which is the ALC about page. Activity C is your profile, it contains an ImageView which should display your photo, TextViews showing your name, Track, Country, Email and Phone Number.
+This challenge is a simple Android Application with three Activities.
+
+# First Activity as the main Activity with two Buttons. 
+
+# Button 1 
+Takes you to Activity B when clicked. 
+# Button 2 
+Takes you to Activity C when clicked. 
+
+# Activity B 
+Loads the About ALC page activity, it contains only a Webview that loads the URL https://andela.com/alc/ 
+
+# Activity C is my profile, 
+It contains an ImageView which displays my photo, textViews showing my name, track that i am enrolled, my Country, my email and phone number.
